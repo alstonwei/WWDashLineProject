@@ -9,7 +9,7 @@ iOS / Objective-C easy dash line util  cirle dash line
 ** 支持垂直虚线
 
 #可实现效果
-![WWDashLineProject](https://github.com/wsq724439564/WWDashLineProject/blob/master/SCREENSHOT/01.png) 
+![WWDashLineProject](https://github.com/alstonwei/WWDashLineProject/blob/master/SCREENSHOT/01.png) 
 
 @interface WWDashLine : UIView
 
