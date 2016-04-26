@@ -2,14 +2,14 @@
 iOS / Objective-C easy dash line util  cirle dash line 
 
 # 特性
-# # 支持xib设置属性
+** 支持xib设置属性
 
-# # 支持圆角虚线
+** 支持圆角虚线
 
-# # 支持垂直虚线
+** 支持垂直虚线
 
 #可实现效果
-![baidu](https://github.com/wsq724439564/WWDashLineProject/blob/master/SCREENSHOT/屏幕快照 2016-04-26 下午5.24.36.png) 
+![WWDashLineProject](https://github.com/wsq724439564/WWDashLineProject/blob/master/SCREENSHOT/01.png) 
 
 @interface WWDashLine : UIView
 
