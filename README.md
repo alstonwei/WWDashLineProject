@@ -1,10 +1,21 @@
 # WWDashLineProject
 iOS / Objective-C easy dash line util  cirle dash line 
 
+# 特性
+# # 支持xib设置属性
 
-支持xib设置属性，支持圆角虚线，支持垂直虚线
+# # 支持圆角虚线
+
+# # 支持垂直虚线
+
+#可实现效果
+![baidu](https://github.com/wsq724439564/WWDashLineProject/blob/master/SCREENSHOT/屏幕快照 2016-04-26 下午5.24.36.png) 
+
+@interface WWDashLine : UIView
 
 
+#属性列表
+``` Objective-C
 @interface WWDashLine : UIView
 
 /*!
@@ -32,3 +43,10 @@ iOS / Objective-C easy dash line util  cirle dash line
 @property(nonatomic,assign,getter=isCircleDot)IBInspectable BOOL circleDot;
 
 @end
+```
+
+
+#联系我
+    邮箱：wsq724439564@126.com 
+
+    微博： http://weibo.com/u/1325583405 [@我就是大强]
